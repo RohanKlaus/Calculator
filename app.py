@@ -14,7 +14,7 @@ background-repeat: no repeat;
 </style>
 """
 st.markdown(page_image_bg, unsafe_allow_html = True)
-st.title("Amy Calculator ")
+st.title("Lavkesh's Calculator ")
 
 # creates a horizontal line
 st.write("---")
